@@ -200,6 +200,3 @@ let Palitos_Jogador_1 = 0
 basic.showString("Selecione seus palitos com a bussola apertando o botao A")
 Palitos_Jogador_1 = 3
 Palitos_Jogador_2 = 3
-basic.forever(function () {
-	
-})
